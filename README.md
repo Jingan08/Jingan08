@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Jingan08
-- 🌱 I’m currently learning diploma in information Technology
 - 📫 How to reach me ...
 
 <!---
